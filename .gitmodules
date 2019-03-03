@@ -1,0 +1,3 @@
+[submodule "EmotionSearchGif/laradock"]
+	path = EmotionSearchGif/laradock
+	url = https://github.com/laradock/laradock.git
